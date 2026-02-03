@@ -50,7 +50,7 @@ export default function Index() {
         "The ultimate expression of Ferrari's racing heritage. Only 400 ever produced, this is a true automotive collectible.",
       price: "$1,400,000",
       imageUrl:
-        "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1580274455191-1c62238fa333?w=800&h=500&fit=crop",
       specs: ["478 hp", "324 km/h", "Twin-Turbo V12"],
     },
     {
@@ -61,7 +61,7 @@ export default function Index() {
         "The pinnacle of 1990s automotive engineering. Central driving position and 627 horsepower of pure performance.",
       price: "$18,000,000",
       imageUrl:
-        "https://images.unsplash.com/photo-1559622839-daf6d0427e61?w=800&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1560958089-b8a46dd52a86?w=800&h=500&fit=crop",
       specs: ["627 hp", "371 km/h", "BMW V12"],
     },
     {
@@ -69,10 +69,10 @@ export default function Index() {
       name: "2005 Bugatti Veyron EB 16.4",
       year: "2005",
       description:
-        "A revolutionary hypercars that redefined performance limits. The first production car to exceed 400 km/h.",
+        "A revolutionary hypercar that redefined performance limits. The first production car to exceed 400 km/h.",
       price: "$2,100,000",
       imageUrl:
-        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1571440450820-efd6cec37be9?w=800&h=500&fit=crop",
       specs: ["987 hp", "407 km/h", "Quad-Turbo W16"],
     },
     {
@@ -83,7 +83,7 @@ export default function Index() {
         "Enzo Ferrari called it the most beautiful car ever made. An iconic design that defined an era.",
       price: "$520,000",
       imageUrl:
-        "https://images.unsplash.com/photo-1609708536965-39b990a6b7e2?w=800&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1577818534294-991b38693d1b?w=800&h=500&fit=crop",
       specs: ["265 hp", "240 km/h", "Straight-6"],
     },
     {
@@ -94,7 +94,7 @@ export default function Index() {
         "Le Mans racing legend. A masterpiece of engineering that dominated international motorsport.",
       price: "$11,000,000",
       imageUrl:
-        "https://images.unsplash.com/photo-1494976866556-6812c9d1c72e?w=800&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&h=500&fit=crop",
       specs: ["427 hp", "322 km/h", "V8"],
     },
     {
@@ -105,7 +105,7 @@ export default function Index() {
         "Limited to just 5 units worldwide. A masterpiece of carbon fiber craftsmanship and extreme performance.",
       price: "$3,500,000",
       imageUrl:
-        "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&h=500&fit=crop",
+        "https://images.unsplash.com/photo-1581887720404-91797e1cffeb?w=800&h=500&fit=crop",
       specs: ["650 hp", "375 km/h", "Twin-Turbo V12"],
     },
   ];
